@@ -3,7 +3,7 @@
 The codes described below can be executed in their numerical order to reproduce the analyses of the Paper "Weber et al., (2025) Using Fine-tuned Large Language Models for Depression Evaluation."
 DOI: https://doi.org/10.21203/rs.3.rs-6555767/v1
 
-All codes have been written by Samantha Weber (samantha.weber@bli.uzh.ch).
+All codes have been written by Samantha Weber (samantha.weber@bli.uzh.ch) in close collaboration with my friend ChatGPT.
 
 ## 00_Download_Convert_Video.py
 
